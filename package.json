@@ -26,10 +26,10 @@
   ],
   "main": "index.js",
   "dependencies": {
-    "through2": "^2.0.1",
-    "gulp-util": "^3.0.7",
     "angular-gettext-tools": "cnord/angular-gettext-tools",
-    "lodash.isstring": "^4.17.5"
+    "gulp-util": "^3.0.7",
+    "lodash": "^4.17.15",
+    "through2": "^2.0.1"
   },
   "devDependencies": {
     "chai": "^3.5.0",
